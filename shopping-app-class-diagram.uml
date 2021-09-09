@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.example.shoppingdemo.entity.Supplier</OriginalElement>
+  <nodes>
+    <node x="294.0" y="0.0">com.example.shoppingdemo.entity.Supplier</node>
+    <node x="0.0" y="0.0">com.example.shoppingdemo.entity.Product</node>
+    <node x="559.0" y="0.0">com.example.shoppingdemo.entity.Orders</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="305.0" y="315.0" />
+  <SelectedNodes>
+    <node>com.example.shoppingdemo.entity.Orders</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
